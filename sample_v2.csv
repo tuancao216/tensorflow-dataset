@@ -1,0 +1,1001 @@
+id,category_id,category,city,country,timeslot,popular
+1,2,Drink,Shigatse,Chad,Morning,3
+2,1,Food,Niamey,Paraguay,Morning,3
+3,1,Food,Surabaya,South Georgia and the South Sandwich Islands,RedEyes,4
+4,5,Education,Hobart,Togo,RedEyes,3
+5,2,Drink,Milan,Qatar,RedEyes,3
+6,3,Clothes,Nizhny Novgorod,Niue,Morning,2
+7,5,Education,Sabha,Egypt,RedEyes,3
+8,3,Clothes,Paris,Guernsey,Morning,2
+9,1,Food,Honiara,Japan,RedEyes,4
+10,4,Shoes,Minsk,Cambodia,Morning,3
+11,2,Drink,Chongqing,Somalia,Morning,3
+12,5,Education,Bamako,Western Sahara,Afternoon,3
+13,3,Clothes,New Orleans,Turks and Caicos Islands,Afternoon,4
+14,4,Shoes,Stepanakert,Kenya,RedEyes,3
+15,1,Food,Bogotá,Singapore,Afternoon,4
+16,4,Shoes,Boston,Estonia,Morning,1
+17,4,Shoes,Dhaka,"Palestinian Territory, Occupied",RedEyes,3
+18,4,Shoes,Mata-Utu,Svalbard and Jan Mayen,Afternoon,4
+19,1,Food,Tagbilaran,Sweden,Morning,2
+20,3,Clothes,Luanda,Panama,RedEyes,2
+21,1,Food,Minsk,Hong Kong,Morning,3
+22,1,Food,Basse-Terre,Solomon Islands,Morning,2
+23,3,Clothes,Odessa,Western Sahara,RedEyes,4
+24,3,Clothes,Sitka,"Palestinian Territory, Occupied",Evening,2
+25,2,Drink,Monaco,Saint Lucia,Morning,2
+26,2,Drink,Riga,Azerbaijan,Evening,2
+27,4,Shoes,Omdurman,Bouvet Island,Morning,4
+28,4,Shoes,The Valley,Western Sahara,Afternoon,1
+29,4,Shoes,Portland,Sudan,Afternoon,1
+30,5,Education,Tampere,Faroe Islands,Morning,3
+31,4,Shoes,Tampa,Bouvet Island,Afternoon,1
+32,1,Food,Bissau,Timor-Leste,RedEyes,2
+33,4,Shoes,Christchurch,Libyan Arab Jamahiriya,RedEyes,1
+34,5,Education,Portland,Pakistan,Evening,2
+35,3,Clothes,Arequipa,Nigeria,Evening,3
+36,5,Education,Barcelona,Indonesia,Morning,4
+37,3,Clothes,Stockholm,China,Evening,2
+38,4,Shoes,Chicago,"Lao People""S Democratic Republic",Morning,2
+39,2,Drink,Shenzhen,Mexico,Evening,1
+40,3,Clothes,Xining,Botswana,Afternoon,2
+41,2,Drink,Luanda,Sierra Leone,Morning,2
+42,3,Clothes,Dibrugarh,"Micronesia, Federated States of",RedEyes,3
+43,2,Drink,San José,Guatemala,RedEyes,4
+44,1,Food,Nantes,Serbia and Montenegro,RedEyes,1
+45,3,Clothes,Cape Town,Zambia,Evening,4
+46,2,Drink,Rosario,Palau,RedEyes,1
+47,5,Education,Bursa,Belgium,Afternoon,4
+48,1,Food,Pelotas,Cayman Islands,RedEyes,4
+49,3,Clothes,Adamstown,Gambia,Afternoon,1
+50,5,Education,Bern,Papua New Guinea,Evening,4
+51,4,Shoes,Naples,Monaco,Afternoon,1
+52,3,Clothes,Frankfurt,Peru,Evening,1
+53,3,Clothes,Kuala Lumpur,Antarctica,RedEyes,1
+54,2,Drink,Cape Town,Turkmenistan,Morning,2
+55,3,Clothes,Sofia,Zimbabwe,Morning,2
+56,2,Drink,Campinas,Saint Pierre and Miquelon,Evening,3
+57,1,Food,Hamburg,Czech Republic,Evening,3
+58,3,Clothes,Cape Town,Armenia,RedEyes,2
+59,4,Shoes,Namangan,India,RedEyes,2
+60,5,Education,Yakutsk,Guernsey,Evening,3
+61,5,Education,Prague,Christmas Island,RedEyes,1
+62,5,Education,Bulawayo,Fiji,RedEyes,1
+63,3,Clothes,Lhasa,Ecuador,Afternoon,1
+64,5,Education,Kuala Lumpur,Zambia,Morning,4
+65,3,Clothes,Philadelphia,Mauritania,Afternoon,4
+66,1,Food,Port Said,Poland,Evening,3
+67,1,Food,Santa Cruz de la Sierra,"Lao People""S Democratic Republic",Morning,2
+68,5,Education,Amsterdam,United States Minor Outlying Islands,Afternoon,4
+69,5,Education,Vienna,"Cote D""Ivoire",RedEyes,4
+70,4,Shoes,Port Elizabeth,Bahrain,Evening,1
+71,2,Drink,Kyoto,RWANDA,Afternoon,3
+72,1,Food,Davao City,Guyana,Evening,1
+73,2,Drink,Hyderabad,New Caledonia,Afternoon,3
+74,1,Food,Charlotte Amalie,Brunei Darussalam,Afternoon,2
+75,2,Drink,Douala,Uganda,Afternoon,2
+76,4,Shoes,Malabo,Guadeloupe,Morning,1
+77,4,Shoes,Rockhampton,Bermuda,Evening,2
+78,1,Food,Taipei,Japan,RedEyes,3
+79,1,Food,Antofagasta,British Indian Ocean Territory,RedEyes,3
+80,4,Shoes,Ürümqi,Solomon Islands,Afternoon,2
+81,2,Drink,Rosario,Nepal,Afternoon,4
+82,5,Education,Campinas,"Congo, The Democratic Republic of the",Morning,2
+83,2,Drink,Chiang Mai,Malta,RedEyes,4
+84,2,Drink,Moscow,Botswana,RedEyes,4
+85,2,Drink,Mendoza,"Congo, The Democratic Republic of the",Evening,2
+86,1,Food,Cape Town,Liechtenstein,RedEyes,1
+87,5,Education,Taipei,United Arab Emirates,Afternoon,2
+88,1,Food,Jinan,Mali,RedEyes,2
+89,1,Food,Iqaluit,Niger,Evening,1
+90,5,Education,Regina,Malaysia,Afternoon,1
+91,3,Clothes,Salzburg,Guatemala,Evening,3
+92,5,Education,Nakhon Ratchasima,Åland Islands,Evening,4
+93,3,Clothes,Ilhéus,Christmas Island,RedEyes,2
+94,3,Clothes,Prague,Maldives,Morning,4
+95,5,Education,Makati City,South Africa,RedEyes,1
+96,5,Education,Salt Lake City,Mozambique,Morning,1
+97,5,Education,Calgary,Swaziland,Afternoon,2
+98,5,Education,Munich,Algeria,RedEyes,2
+99,1,Food,Cuiabá,Montserrat,Evening,4
+100,1,Food,Maputo,Cocos (Keeling) Islands,Morning,4
+101,5,Education,Hai Phong,Cook Islands,Morning,1
+102,5,Education,Gothenburg,"Lao People""S Democratic Republic",RedEyes,3
+103,4,Shoes,Mexico City,Spain,Afternoon,4
+104,4,Shoes,Lisbon,Bosnia and Herzegovina,Morning,4
+105,3,Clothes,Dongguan,Mongolia,Afternoon,2
+106,3,Clothes,Valparaíso,"Korea, Democratic People""S Republic of",Afternoon,4
+107,3,Clothes,Yerevan,Aruba,Afternoon,1
+108,1,Food,Funafuti,Denmark,Evening,4
+109,5,Education,Rabat,Slovenia,Morning,4
+110,1,Food,Abidjan,South Africa,RedEyes,2
+111,1,Food,Madrid,New Caledonia,Morning,3
+112,3,Clothes,Charlotte Amalie,Mali,Morning,4
+113,5,Education,Jayapura,Somalia,Afternoon,4
+114,3,Clothes,Oslo,Yemen,Evening,2
+115,2,Drink,Adak,Dominican Republic,Morning,1
+116,1,Food,Minneapolis,Singapore,RedEyes,2
+117,3,Clothes,Basse-Terre,Puerto Rico,Afternoon,1
+118,4,Shoes,Valparaíso,Lebanon,Afternoon,2
+119,3,Clothes,Murmansk,Belize,Afternoon,4
+120,1,Food,Hargeisa,Croatia,Evening,4
+121,2,Drink,Cali,Gabon,Afternoon,2
+122,1,Food,Phoenix,Saint Helena,RedEyes,3
+123,2,Drink,Kuching,Cameroon,Afternoon,1
+124,4,Shoes,Málaga,Bulgaria,Afternoon,3
+125,5,Education,Panama City,Macao,Evening,3
+126,5,Education,Buffalo,Somalia,Afternoon,1
+127,2,Drink,Louisville,Reunion,Evening,2
+128,1,Food,Whitehorse,Viet Nam,Morning,3
+129,4,Shoes,Harare,New Caledonia,RedEyes,4
+130,3,Clothes,Minsk,Saint Lucia,Morning,4
+131,4,Shoes,Saipan,"Macedonia, The Former Yugoslav Republic of",Afternoon,2
+132,2,Drink,Hargeisa,Sweden,RedEyes,1
+133,1,Food,Montreal,Isle of Man,Afternoon,1
+134,4,Shoes,Kawasaki,Guinea-Bissau,Evening,2
+135,1,Food,Amman,Zambia,RedEyes,1
+136,4,Shoes,Mendoza,Lithuania,Afternoon,2
+137,2,Drink,Abu Dhabi,"Macedonia, The Former Yugoslav Republic of",Evening,4
+138,2,Drink,São Tomé,Mayotte,Evening,1
+139,1,Food,Labasa,Uruguay,Afternoon,4
+140,5,Education,Belize City,"Congo, The Democratic Republic of the",Afternoon,1
+141,5,Education,Durban,Indonesia,Morning,1
+142,5,Education,Lilongwe,Western Sahara,Afternoon,2
+143,4,Shoes,Lhasa,Bahamas,Morning,2
+144,4,Shoes,Kandahar,Hong Kong,Afternoon,3
+145,2,Drink,Oklahoma City,Liberia,Afternoon,3
+146,5,Education,Maceió,Brunei Darussalam,Afternoon,2
+147,5,Education,Tabriz,Saint Vincent and the Grenadines,Afternoon,4
+148,4,Shoes,Yangon,Saint Kitts and Nevis,Afternoon,1
+149,3,Clothes,Jakarta,Grenada,Evening,2
+150,3,Clothes,Glasgow,Pakistan,Afternoon,1
+151,5,Education,Kabul,Argentina,RedEyes,2
+152,1,Food,Nouméa,Botswana,Evening,2
+153,2,Drink,San Francisco,"Iran, Islamic Republic Of",Afternoon,2
+154,5,Education,Chuí,"Macedonia, The Former Yugoslav Republic of",Evening,3
+155,4,Shoes,La Paz,Cambodia,Morning,3
+156,3,Clothes,Pristina,Mayotte,Evening,1
+157,1,Food,Serekunda,"Iran, Islamic Republic Of",Afternoon,1
+158,3,Clothes,Mamoudzou,Saint Vincent and the Grenadines,Morning,1
+159,2,Drink,Bratislava,Tunisia,Afternoon,1
+160,4,Shoes,Wuhan,Portugal,RedEyes,2
+161,2,Drink,Alexandria,Afghanistan,Morning,1
+162,3,Clothes,Jeddah,French Guiana,Morning,3
+163,4,Shoes,Adak,Sweden,Afternoon,2
+164,5,Education,Djibouti (city),Italy,Morning,4
+165,4,Shoes,Ankara,Pakistan,RedEyes,3
+166,5,Education,Riverside,Romania,Morning,3
+167,2,Drink,Kuala Lumpur,Canada,Afternoon,4
+168,2,Drink,Bahía Blanca,Equatorial Guinea,Afternoon,3
+169,4,Shoes,Rosario,Namibia,Morning,1
+170,3,Clothes,Zagreb,Vanuatu,Evening,1
+171,5,Education,Yellowknife,Brazil,Evening,4
+172,3,Clothes,City of San Marino,Cuba,Evening,3
+173,2,Drink,Kolkata,Guyana,Evening,1
+174,4,Shoes,City of Halifax,Georgia,Evening,1
+175,1,Food,Vatican City,French Southern Territories,Afternoon,1
+176,3,Clothes,Nuuk,Svalbard and Jan Mayen,RedEyes,1
+177,3,Clothes,Thimphu,Italy,Morning,2
+178,2,Drink,Saint Petersburg,Wallis and Futuna,RedEyes,3
+179,2,Drink,Tucson,Gambia,Morning,2
+180,2,Drink,Kingston,Reunion,Evening,2
+181,1,Food,Kyoto,Somalia,Morning,1
+182,5,Education,Vilnius,Viet Nam,Afternoon,1
+183,2,Drink,Maceió,Belize,Morning,1
+184,3,Clothes,Iqaluit,United States,Evening,4
+185,1,Food,Vatican City,Marshall Islands,Evening,1
+186,3,Clothes,Hat Yai,Guam,Afternoon,1
+187,5,Education,Winnipeg,Comoros,Evening,2
+188,1,Food,Thessaloniki,Gambia,Morning,4
+189,1,Food,Rio Branco,Mali,RedEyes,4
+190,5,Education,Boa Vista,Liberia,RedEyes,2
+191,1,Food,Buffalo,Australia,Afternoon,1
+192,2,Drink,Gold Coast,Guyana,Afternoon,3
+193,4,Shoes,Stanley,Sudan,RedEyes,3
+194,5,Education,Almaty,Bhutan,Afternoon,4
+195,3,Clothes,Thiès,Romania,Afternoon,3
+196,2,Drink,Vatican City,Portugal,Evening,4
+197,1,Food,Amman,United Arab Emirates,Afternoon,1
+198,2,Drink,Juneau,Poland,RedEyes,1
+199,2,Drink,Bridgetown,Tonga,Evening,2
+200,1,Food,Stockholm,Niue,Morning,2
+201,4,Shoes,Novosibirsk,Hong Kong,Morning,2
+202,3,Clothes,Ouagadougou,Congo,Afternoon,2
+203,4,Shoes,Virginia Beach,"Tanzania, United Republic of",RedEyes,1
+204,1,Food,Tampere,New Zealand,Evening,1
+205,3,Clothes,La Paz,"Cote D""Ivoire",Morning,3
+206,2,Drink,Batticaloa,Bosnia and Herzegovina,Evening,3
+207,5,Education,Recife,Romania,Afternoon,3
+208,5,Education,Guwahati,Faroe Islands,Morning,2
+209,1,Food,Port Moresby,Tokelau,Evening,3
+210,1,Food,Banjul,Anguilla,Afternoon,3
+211,5,Education,Kharkiv,United Arab Emirates,Afternoon,2
+212,2,Drink,Barranquilla,Anguilla,Morning,3
+213,2,Drink,Tampere,Solomon Islands,Afternoon,2
+214,1,Food,Bissau,Puerto Rico,RedEyes,4
+215,4,Shoes,Punta Arenas,Tonga,Afternoon,1
+216,2,Drink,Dili,Latvia,Evening,1
+217,4,Shoes,Sitka,Russian Federation,RedEyes,4
+218,4,Shoes,Koror,Lesotho,RedEyes,1
+219,1,Food,Dhaka,Canada,RedEyes,2
+220,4,Shoes,Porto Alegre,Honduras,Evening,3
+221,3,Clothes,Sofia,Sao Tome and Principe,Evening,2
+222,2,Drink,Bogor,Costa Rica,RedEyes,1
+223,5,Education,Norilsk,Ecuador,Evening,1
+224,4,Shoes,Koulikoro,Nicaragua,Evening,3
+225,2,Drink,Shillong,Madagascar,Afternoon,4
+226,3,Clothes,El Aaiún,Hungary,Afternoon,4
+227,2,Drink,Porto-Novo,Germany,Evening,4
+228,2,Drink,Christchurch,Croatia,RedEyes,4
+229,1,Food,Peshawar,Japan,Afternoon,1
+230,4,Shoes,Juneau,Yemen,Morning,4
+231,2,Drink,Medina,Australia,Afternoon,4
+232,3,Clothes,Glasgow,Indonesia,RedEyes,3
+233,3,Clothes,Vancouver,Saint Helena,Morning,1
+234,3,Clothes,Taiyuan,France,Afternoon,4
+235,2,Drink,Dunedin,Poland,Morning,2
+236,2,Drink,Tegucigalpa,Honduras,Evening,2
+237,5,Education,Hangzhou,Vanuatu,Evening,4
+238,3,Clothes,Dhaka,Grenada,Afternoon,2
+239,5,Education,Shenzhen,Sweden,RedEyes,3
+240,1,Food,Charlotte Amalie,El Salvador,Afternoon,2
+241,3,Clothes,Zagreb,Myanmar,RedEyes,3
+242,1,Food,Freetown,Aruba,Morning,4
+243,3,Clothes,Handan,Venezuela,Evening,3
+244,3,Clothes,Yamoussoukro,India,Evening,1
+245,1,Food,Canberra,Cayman Islands,Afternoon,2
+246,1,Food,Tokyo,Faroe Islands,RedEyes,2
+247,2,Drink,Vaduz,Brunei Darussalam,Afternoon,1
+248,5,Education,Zagreb,Spain,Evening,2
+249,2,Drink,Rochester,Egypt,Afternoon,4
+250,3,Clothes,Bangkok,Thailand,Evening,1
+251,3,Clothes,Lisbon,Faroe Islands,Morning,2
+252,5,Education,Hamburg,Lebanon,Evening,4
+253,1,Food,San Fernando,United States,Afternoon,3
+254,3,Clothes,Las Vegas,Malaysia,RedEyes,4
+255,5,Education,Balikpapan,"Lao People""S Democratic Republic",Afternoon,3
+256,4,Shoes,The Hague,Eritrea,Evening,2
+257,5,Education,Zapopan,Lesotho,Evening,1
+258,1,Food,Brussels,Reunion,RedEyes,1
+259,1,Food,Xi'an,Tunisia,Afternoon,1
+260,5,Education,Seattle,Kiribati,Morning,4
+261,4,Shoes,St. Louis,Greenland,Evening,3
+262,4,Shoes,Budapest,Turkmenistan,Morning,2
+263,4,Shoes,Greenwich,Norfolk Island,RedEyes,2
+264,2,Drink,Doha,Cyprus,Afternoon,3
+265,1,Food,Vilnius,Congo,Afternoon,3
+266,5,Education,Brussels,Malaysia,Evening,1
+267,2,Drink,Wellington,French Polynesia,Evening,2
+268,5,Education,Aarhus,Swaziland,RedEyes,3
+269,5,Education,Port-au-Prince,Sri Lanka,Afternoon,4
+270,2,Drink,Amritsar,Oman,Morning,1
+271,5,Education,Tashkent,Costa Rica,Morning,3
+272,4,Shoes,Concepción,Israel,Afternoon,3
+273,1,Food,Banjul,Saint Helena,Morning,4
+274,5,Education,Abu Dhabi,Saint Pierre and Miquelon,Evening,1
+275,5,Education,Chaguanas,Belize,Morning,4
+276,1,Food,Davao City,Djibouti,RedEyes,4
+277,4,Shoes,Islamabad,India,Morning,2
+278,2,Drink,Alor Star,Macao,RedEyes,1
+279,5,Education,Zamboanga City,Cape Verde,Afternoon,1
+280,3,Clothes,Frankfurt,Bermuda,Morning,1
+281,1,Food,Islamabad,Botswana,RedEyes,2
+282,1,Food,Pekanbaru,Greenland,Evening,2
+283,3,Clothes,Macau,Mauritania,Afternoon,2
+284,4,Shoes,Ankara,Uganda,Evening,1
+285,5,Education,Marseille,Faroe Islands,Evening,4
+286,3,Clothes,Hat Yai,Greece,Evening,3
+287,4,Shoes,Zanzibar City,Panama,RedEyes,4
+288,5,Education,Makassar,Samoa,Evening,3
+289,3,Clothes,Yerevan,Singapore,Morning,4
+290,2,Drink,Bratislava,French Southern Territories,RedEyes,4
+291,4,Shoes,Chongjin,Aruba,Morning,4
+292,2,Drink,Quetzaltenango,Western Sahara,RedEyes,4
+293,2,Drink,Warsaw,Uruguay,Evening,1
+294,1,Food,Thiès,Austria,Evening,1
+295,2,Drink,The Hague,Tuvalu,Evening,2
+296,5,Education,St. Louis,Saint Kitts and Nevis,Evening,2
+297,2,Drink,Fairbanks,Sri Lanka,RedEyes,3
+298,1,Food,Chongjin,Senegal,Morning,2
+299,1,Food,San Juan,Uganda,Morning,3
+300,5,Education,Kobe,Honduras,Morning,1
+301,2,Drink,Assis,Liberia,Afternoon,4
+302,5,Education,Pretoria,Iceland,RedEyes,2
+303,5,Education,Wellington,Portugal,RedEyes,1
+304,5,Education,Kansas City,Azerbaijan,Afternoon,3
+305,5,Education,Gangtok,Azerbaijan,Evening,2
+306,3,Clothes,Lucknow,Namibia,RedEyes,4
+307,5,Education,Wuhan,Yemen,Morning,4
+308,2,Drink,Suva,Guinea,Afternoon,1
+309,1,Food,Karachi,Puerto Rico,Morning,4
+310,1,Food,Turin,Lesotho,RedEyes,2
+311,1,Food,Liverpool,Mayotte,RedEyes,2
+312,3,Clothes,Tabriz,New Caledonia,Evening,3
+313,2,Drink,Warsaw,Cook Islands,Evening,4
+314,5,Education,Castries,Romania,RedEyes,2
+315,5,Education,Port Elizabeth,Libyan Arab Jamahiriya,RedEyes,1
+316,4,Shoes,Dodoma,American Samoa,Evening,1
+317,5,Education,Townsville,Belgium,Afternoon,3
+318,2,Drink,Providence,Gibraltar,Morning,3
+319,3,Clothes,Tel Aviv,Saint Lucia,Morning,2
+320,2,Drink,Prague,Trinidad and Tobago,RedEyes,4
+321,1,Food,Rio de Janeiro,Guinea-Bissau,Evening,4
+322,1,Food,Pristina,Belarus,Evening,2
+323,5,Education,Warsaw,Italy,Morning,3
+324,4,Shoes,Doha,Trinidad and Tobago,RedEyes,1
+325,2,Drink,Sri Jayawardenapura-Kotte,Egypt,Afternoon,1
+326,1,Food,Hai Phong,Tunisia,Afternoon,4
+327,3,Clothes,Skopje,Sudan,Afternoon,1
+328,2,Drink,Dunedin,Saint Lucia,Afternoon,4
+329,1,Food,Madrid,Ethiopia,Morning,4
+330,3,Clothes,Yekaterinburg,French Polynesia,Morning,3
+331,2,Drink,Virginia Beach,Bolivia,Afternoon,1
+332,1,Food,Stanley,El Salvador,RedEyes,1
+333,5,Education,Durban,Bulgaria,RedEyes,1
+334,2,Drink,Montreal,Jordan,Evening,1
+335,1,Food,Barranquilla,Jamaica,Evening,4
+336,5,Education,Vitória,Armenia,RedEyes,2
+337,1,Food,Johannesburg,Western Sahara,Morning,2
+338,4,Shoes,New Orleans,Oman,Morning,3
+339,2,Drink,Harbin,Syrian Arab Republic,Morning,3
+340,3,Clothes,Bandung,"Cote D""Ivoire",Afternoon,2
+341,4,Shoes,Hangzhou,Mauritius,Evening,4
+342,1,Food,Sarajevo,Sweden,RedEyes,2
+343,5,Education,Dushanbe,Paraguay,Morning,2
+344,2,Drink,Hiroshima,China,Afternoon,4
+345,2,Drink,Fortaleza,"Korea, Republic of",Morning,1
+346,3,Clothes,Chongqing,Oman,Evening,1
+347,1,Food,Winnipeg,Aruba,RedEyes,1
+348,1,Food,Niamey,Kazakhstan,Afternoon,1
+349,5,Education,Kaohsiung,"Virgin Islands, British",Afternoon,1
+350,5,Education,N'Djamena,Peru,Afternoon,3
+351,5,Education,Berlin,"Congo, The Democratic Republic of the",Afternoon,4
+352,2,Drink,Chihuahua,Lithuania,Evening,3
+353,5,Education,Málaga,Ireland,Afternoon,3
+354,4,Shoes,Pretoria,Niger,RedEyes,3
+355,4,Shoes,Magadan,Saint Lucia,Morning,4
+356,1,Food,Amman,Martinique,Afternoon,3
+357,3,Clothes,Townsville,Martinique,Afternoon,3
+358,1,Food,Iquique,Nigeria,Morning,2
+359,5,Education,San Salvador,Dominican Republic,Evening,4
+360,2,Drink,Iqaluit,Palau,Evening,2
+361,4,Shoes,Wuhan,Ghana,RedEyes,1
+362,1,Food,Guangzhou,Palau,Afternoon,3
+363,3,Clothes,Zagreb,United States,Afternoon,3
+364,3,Clothes,Dalian,Bahamas,Evening,3
+365,1,Food,El Paso,Djibouti,Afternoon,3
+366,5,Education,Pristina,Yemen,RedEyes,1
+367,1,Food,Stuttgart,Solomon Islands,Afternoon,4
+368,2,Drink,Pretoria,Afghanistan,RedEyes,1
+369,1,Food,Saint John,Lithuania,Morning,4
+370,3,Clothes,Vientiane,Barbados,Morning,4
+371,3,Clothes,Ipoh,Saint Pierre and Miquelon,Morning,2
+372,1,Food,Bishkek,Denmark,Evening,1
+373,2,Drink,Pittsburgh,Congo,Afternoon,4
+374,1,Food,Fairbanks,Uganda,Morning,3
+375,3,Clothes,Graz,Niue,Afternoon,1
+376,5,Education,Shillong,Turkmenistan,Evening,4
+377,4,Shoes,Leeds,"Moldova, Republic of",RedEyes,1
+378,1,Food,Bilbao,Slovenia,Evening,3
+379,5,Education,Bogotá,"Congo, The Democratic Republic of the",RedEyes,2
+380,3,Clothes,Seattle,Trinidad and Tobago,Evening,1
+381,4,Shoes,Maceió,"Virgin Islands, U.S.",RedEyes,1
+382,5,Education,Helsinki,Turkmenistan,Morning,3
+383,4,Shoes,Baku,"Palestinian Territory, Occupied",RedEyes,1
+384,4,Shoes,San Diego,Bermuda,Evening,4
+385,1,Food,Tiraspol,Swaziland,RedEyes,2
+386,3,Clothes,Washington,Paraguay,RedEyes,3
+387,1,Food,Bursa,"Palestinian Territory, Occupied",Afternoon,2
+388,2,Drink,Chişinău,United Arab Emirates,Afternoon,4
+389,4,Shoes,Thiès,Sao Tome and Principe,Evening,3
+390,3,Clothes,Omdurman,Iceland,Afternoon,3
+391,4,Shoes,Arbil,Croatia,Afternoon,4
+392,4,Shoes,Jinan,"Korea, Republic of",Afternoon,2
+393,2,Drink,Hangzhou,Tokelau,Afternoon,3
+394,2,Drink,Thessaloniki,Burkina Faso,RedEyes,4
+395,2,Drink,Port Blair,Switzerland,RedEyes,1
+396,2,Drink,Denver,South Georgia and the South Sandwich Islands,RedEyes,1
+397,3,Clothes,Pune,Puerto Rico,RedEyes,1
+398,2,Drink,Shijiazhuang,Heard Island and Mcdonald Islands,Morning,2
+399,1,Food,Luxembourg (city),Liechtenstein,RedEyes,4
+400,5,Education,Khartoum,Myanmar,RedEyes,1
+401,5,Education,Lusaka,Paraguay,Afternoon,3
+402,5,Education,Lhasa,Brunei Darussalam,Evening,3
+403,5,Education,Casablanca,Oman,Morning,4
+404,4,Shoes,Adelaide,Nigeria,Morning,1
+405,4,Shoes,Canberra,French Guiana,Morning,3
+406,2,Drink,Nassau,United Arab Emirates,Afternoon,4
+407,4,Shoes,Fortaleza,Tunisia,Evening,1
+408,5,Education,Rotterdam,Jamaica,Morning,2
+409,1,Food,Cairns,Myanmar,Evening,1
+410,5,Education,Valparaíso,Djibouti,Afternoon,3
+411,4,Shoes,Copenhagen,Belgium,Afternoon,4
+412,2,Drink,Virginia Beach,French Polynesia,Evening,1
+413,3,Clothes,Incheon,Panama,Evening,3
+414,2,Drink,Innsbruck,Haiti,Afternoon,1
+415,2,Drink,Patna,RWANDA,RedEyes,4
+416,3,Clothes,Bucharest,Netherlands Antilles,RedEyes,2
+417,3,Clothes,Durban,Martinique,Evening,4
+418,1,Food,São Paulo,Malawi,Evening,1
+419,3,Clothes,Tegucigalpa,Antarctica,Evening,4
+420,3,Clothes,Lima,Portugal,RedEyes,4
+421,1,Food,Pretoria,Saint Helena,Afternoon,3
+422,2,Drink,Memphis,French Guiana,Evening,3
+423,2,Drink,Iquique,"Congo, The Democratic Republic of the",Evening,2
+424,5,Education,Philadelphia,Sri Lanka,Evening,4
+425,3,Clothes,Providence,Netherlands Antilles,Evening,3
+426,1,Food,Porto Alegre,"Micronesia, Federated States of",Morning,1
+427,1,Food,Mogadishu,Bahamas,Afternoon,2
+428,4,Shoes,Cuiabá,Bahamas,Evening,4
+429,3,Clothes,Tartu,Bosnia and Herzegovina,Evening,2
+430,1,Food,Dubai,"Congo, The Democratic Republic of the",Evening,2
+431,3,Clothes,Virginia Beach,Macao,Evening,4
+432,5,Education,Cuiabá,Trinidad and Tobago,Evening,4
+433,2,Drink,Campo Grande,Jordan,Morning,4
+434,1,Food,Maceió,Venezuela,Evening,2
+435,4,Shoes,Xi'an,Mozambique,RedEyes,2
+436,2,Drink,Madrid,New Zealand,RedEyes,2
+437,2,Drink,Invercargill,Guernsey,Afternoon,2
+438,5,Education,St. John's,Norfolk Island,Afternoon,2
+439,3,Clothes,Kaohsiung,"Virgin Islands, British",Morning,2
+440,4,Shoes,Okinawa,Malta,Evening,1
+441,5,Education,Bulawayo,Venezuela,Afternoon,2
+442,2,Drink,Sukhumi,Nepal,Morning,2
+443,5,Education,Hai Phong,Isle of Man,Evening,2
+444,2,Drink,Quebec City,Hungary,Afternoon,4
+445,1,Food,Seattle,Argentina,Evening,3
+446,1,Food,Dunedin,Turkmenistan,Afternoon,3
+447,4,Shoes,Salzburg,San Marino,RedEyes,4
+448,2,Drink,Cardiff,United States Minor Outlying Islands,RedEyes,2
+449,2,Drink,Antofagasta,Cuba,Afternoon,2
+450,3,Clothes,Nagpur,Puerto Rico,Afternoon,2
+451,5,Education,Odessa,Martinique,Morning,1
+452,4,Shoes,Frankfurt,"Moldova, Republic of",Afternoon,1
+453,2,Drink,Nizhny Novgorod,Viet Nam,Morning,2
+454,4,Shoes,Basra,Sao Tome and Principe,Morning,2
+455,5,Education,Miri,Bhutan,Afternoon,1
+456,1,Food,Toronto,Guernsey,RedEyes,1
+457,5,Education,Taiyuan,Central African Republic,Morning,3
+458,4,Shoes,Memphis,"Macedonia, The Former Yugoslav Republic of",RedEyes,3
+459,5,Education,Port Said,Sao Tome and Principe,Morning,1
+460,3,Clothes,Nantes,AndorrA,Afternoon,4
+461,2,Drink,Auckland,Iceland,Evening,4
+462,4,Shoes,Fortaleza,Guinea,RedEyes,4
+463,1,Food,Port Moresby,Estonia,Evening,3
+464,4,Shoes,Pelotas,Barbados,Evening,3
+465,2,Drink,Yakutsk,British Indian Ocean Territory,Morning,3
+466,5,Education,Shanghai,Saint Helena,Evening,4
+467,5,Education,St. George's,Belgium,Morning,4
+468,2,Drink,Castries,Paraguay,Afternoon,4
+469,3,Clothes,Faisalabad,Antigua and Barbuda,Afternoon,2
+470,3,Clothes,Basse-Terre,Croatia,Afternoon,1
+471,3,Clothes,Yaoundé,Portugal,Evening,2
+472,1,Food,Caracas,Martinique,Evening,4
+473,3,Clothes,Casablanca,Nicaragua,Morning,2
+474,2,Drink,Abidjan,Equatorial Guinea,Afternoon,4
+475,3,Clothes,Athens,Niger,RedEyes,2
+476,4,Shoes,Belém,Macao,Afternoon,2
+477,4,Shoes,Dammam,Pitcairn,RedEyes,2
+478,4,Shoes,Bahía Blanca,AndorrA,Afternoon,2
+479,5,Education,Norilsk,Belgium,Morning,2
+480,4,Shoes,Asmara,Djibouti,RedEyes,4
+481,5,Education,Mashhad,Burkina Faso,RedEyes,4
+482,5,Education,Santiago de Cuba,Northern Mariana Islands,RedEyes,4
+483,2,Drink,Paramaribo,Bouvet Island,RedEyes,4
+484,3,Clothes,Yogyakarta (city),Tunisia,RedEyes,4
+485,3,Clothes,Panama City,Sri Lanka,Morning,1
+486,2,Drink,São Paulo,Holy See (Vatican City State),RedEyes,3
+487,3,Clothes,Sapporo,Qatar,Afternoon,1
+488,5,Education,Philadelphia,Bahrain,RedEyes,2
+489,3,Clothes,Koulikoro,Afghanistan,Evening,1
+490,1,Food,Kuwait City,Cyprus,RedEyes,2
+491,2,Drink,Shenyang,Guernsey,RedEyes,2
+492,3,Clothes,Stanley,Saudi Arabia,Morning,4
+493,4,Shoes,Vatican City,Costa Rica,RedEyes,3
+494,1,Food,Cardiff,Guatemala,Morning,4
+495,2,Drink,Abuja,Tunisia,Afternoon,2
+496,2,Drink,Maceió,Grenada,Afternoon,4
+497,5,Education,Nukus,Seychelles,RedEyes,3
+498,4,Shoes,Bursa,Faroe Islands,Afternoon,4
+499,1,Food,Petropavlovsk-Kamchatsky,Niue,RedEyes,2
+500,5,Education,Malmö,Gibraltar,Evening,3
+501,5,Education,Casablanca,Iceland,Evening,1
+502,4,Shoes,Cork (city),Angola,Afternoon,1
+503,3,Clothes,Kinshasa,Reunion,Evening,3
+504,2,Drink,Lucknow,Hong Kong,Afternoon,2
+505,2,Drink,Tagbilaran,Bosnia and Herzegovina,Morning,4
+506,2,Drink,Shenyang,New Zealand,Afternoon,4
+507,1,Food,Boston,Seychelles,Evening,1
+508,5,Education,Busan,Ethiopia,Evening,2
+509,1,Food,Aberdeen,Timor-Leste,RedEyes,3
+510,5,Education,Hiroshima,Madagascar,Evening,3
+511,5,Education,Santiago,Bahrain,Morning,3
+512,5,Education,Cartagena,Norway,Afternoon,4
+513,3,Clothes,Punta Arenas,Eritrea,RedEyes,1
+514,4,Shoes,Abidjan,French Polynesia,Morning,2
+515,1,Food,Padang,Macao,RedEyes,1
+516,4,Shoes,Cockburn Town,Tonga,Morning,2
+517,3,Clothes,San Diego,Martinique,Morning,2
+518,5,Education,Arequipa,Liechtenstein,Afternoon,3
+519,2,Drink,Amritsar,Puerto Rico,RedEyes,2
+520,5,Education,Singapore,Bulgaria,Morning,1
+521,1,Food,Riverside,Netherlands,Morning,2
+522,4,Shoes,Buffalo,Suriname,Morning,4
+523,1,Food,Jersey City,Central African Republic,Afternoon,2
+524,3,Clothes,Palikir,Thailand,Afternoon,3
+525,3,Clothes,Nakhon Ratchasima,Turkmenistan,Evening,2
+526,4,Shoes,Rabi Island,Israel,Morning,4
+527,2,Drink,Jaipur,Haiti,Evening,2
+528,3,Clothes,Rawalpindi,Western Sahara,Afternoon,3
+529,2,Drink,Calgary,Maldives,Morning,3
+530,2,Drink,Porto Velho,French Polynesia,Morning,4
+531,2,Drink,Bulawayo,Denmark,Morning,1
+532,3,Clothes,Blantyre,New Caledonia,Morning,1
+533,3,Clothes,Pattaya,Lebanon,Morning,3
+534,2,Drink,Townsville,Kenya,Evening,1
+535,5,Education,Samara,Finland,Morning,2
+536,5,Education,Namangan,Tajikistan,Afternoon,1
+537,2,Drink,Francistown,Chile,Morning,1
+538,1,Food,Strasbourg,Albania,Evening,1
+539,2,Drink,Kraków,Kiribati,Morning,1
+540,5,Education,Davao City,Niger,RedEyes,1
+541,3,Clothes,Bursa,Ukraine,Afternoon,2
+542,1,Food,Shanghai,Anguilla,Evening,3
+543,2,Drink,Rabi Island,Czech Republic,Evening,3
+544,5,Education,Harare,Congo,RedEyes,1
+545,2,Drink,Abidjan,Cayman Islands,Morning,2
+546,2,Drink,Rosario,Pitcairn,Afternoon,2
+547,5,Education,Tallinn,Christmas Island,Evening,2
+548,1,Food,Cuiabá,South Georgia and the South Sandwich Islands,Evening,2
+549,5,Education,San Juan,Nigeria,Afternoon,1
+550,1,Food,New Orleans,Canada,Evening,2
+551,4,Shoes,Milan,American Samoa,Evening,3
+552,2,Drink,Córdoba,Niue,RedEyes,1
+553,1,Food,Lahore,American Samoa,RedEyes,1
+554,1,Food,Douala,"Tanzania, United Republic of",Afternoon,2
+555,1,Food,Rome,Seychelles,Evening,3
+556,4,Shoes,Maracaibo,Barbados,Evening,1
+557,4,Shoes,Ilhéus,United Arab Emirates,Morning,2
+558,5,Education,Johannesburg,Tunisia,Morning,3
+559,4,Shoes,Pittsburgh,"Lao People""S Democratic Republic",RedEyes,1
+560,1,Food,Dili,Italy,RedEyes,1
+561,3,Clothes,Tehran,Bulgaria,Afternoon,3
+562,5,Education,Cincinnati,Costa Rica,Evening,3
+563,5,Education,Kingstown,Tajikistan,Afternoon,3
+564,5,Education,Lusaka,Lesotho,RedEyes,3
+565,1,Food,Sacramento,Indonesia,Evening,2
+566,1,Food,Gdańsk,Niger,RedEyes,4
+567,5,Education,Juneau,Thailand,RedEyes,2
+568,5,Education,Chaguanas,Viet Nam,Afternoon,2
+569,3,Clothes,Andorra la Vella,French Polynesia,Morning,2
+570,4,Shoes,Asunción,Qatar,Evening,2
+571,3,Clothes,Iqaluit,Saint Kitts and Nevis,Morning,2
+572,4,Shoes,Tehran,Russian Federation,Evening,2
+573,3,Clothes,Salt Lake City,Kenya,Afternoon,4
+574,2,Drink,Yaoundé,Bouvet Island,RedEyes,4
+575,4,Shoes,Skopje,Oman,Evening,2
+576,2,Drink,Vancouver,"Micronesia, Federated States of",Morning,1
+577,4,Shoes,Johor Bahru,French Guiana,Morning,3
+578,3,Clothes,Odessa,Kyrgyzstan,Afternoon,1
+579,4,Shoes,Gaziantep,Cape Verde,Evening,3
+580,1,Food,Johor Bahru,Zimbabwe,Evening,2
+581,2,Drink,Hobart,United States,RedEyes,3
+582,2,Drink,Adamstown,Singapore,RedEyes,2
+583,1,Food,Pago Pago,Tuvalu,RedEyes,4
+584,3,Clothes,Quito,Netherlands,Evening,4
+585,1,Food,New Orleans,Sao Tome and Principe,RedEyes,4
+586,5,Education,Geelong,Kenya,Evening,1
+587,3,Clothes,Cape Town,Guernsey,Evening,1
+588,5,Education,The Hague,Croatia,Afternoon,2
+589,4,Shoes,Enugu,French Polynesia,Evening,1
+590,2,Drink,Rosario,Faroe Islands,Evening,1
+591,3,Clothes,Dublin,Burkina Faso,Evening,4
+592,3,Clothes,Kolkata,Tunisia,Morning,2
+593,1,Food,Okinawa,Northern Mariana Islands,Afternoon,2
+594,2,Drink,Lucknow,Malaysia,Afternoon,1
+595,5,Education,Monrovia,Singapore,Afternoon,4
+596,3,Clothes,Luxor,Nauru,Evening,1
+597,4,Shoes,Shigatse,Papua New Guinea,RedEyes,1
+598,1,Food,Nice,Cocos (Keeling) Islands,RedEyes,4
+599,3,Clothes,Osaka,Hong Kong,RedEyes,3
+600,1,Food,Tianjin,Aruba,Afternoon,2
+601,1,Food,Port Blair,"Moldova, Republic of",Morning,2
+602,3,Clothes,Louisville,Jordan,Afternoon,3
+603,5,Education,N'Djamena,Mozambique,Evening,4
+604,3,Clothes,Minsk,Qatar,Morning,1
+605,4,Shoes,Salt Lake City,Qatar,Morning,2
+606,5,Education,Bandung,Cambodia,Afternoon,2
+607,4,Shoes,Yangon,Sao Tome and Principe,Morning,4
+608,1,Food,Caracas,Namibia,Afternoon,2
+609,5,Education,Geneva,Oman,RedEyes,4
+610,3,Clothes,Birkirkara,South Africa,RedEyes,4
+611,4,Shoes,Medina,India,Morning,4
+612,2,Drink,Hamilton,Burundi,Afternoon,1
+613,2,Drink,Guadalajara,Saint Pierre and Miquelon,Afternoon,3
+614,2,Drink,Adak,Yemen,Afternoon,2
+615,4,Shoes,Nakhon Ratchasima,China,Morning,1
+616,1,Food,Tripoli,"Korea, Democratic People""S Republic of",Morning,2
+617,2,Drink,Abidjan,Equatorial Guinea,Afternoon,2
+618,3,Clothes,Athens,Yemen,Afternoon,1
+619,5,Education,Austin,Peru,RedEyes,4
+620,4,Shoes,Hai Phong,Mexico,Morning,4
+621,4,Shoes,São Tomé,Timor-Leste,Afternoon,2
+622,3,Clothes,Basse-Terre,Comoros,RedEyes,2
+623,4,Shoes,Okinawa,Czech Republic,Morning,2
+624,2,Drink,Ibiza,Denmark,Evening,2
+625,5,Education,Charlotte Amalie,Trinidad and Tobago,Evening,2
+626,3,Clothes,Karachi,Costa Rica,Morning,1
+627,1,Food,Riyadh,Suriname,Afternoon,1
+628,1,Food,Douglas,South Africa,Morning,1
+629,1,Food,Bratislava,Philippines,RedEyes,1
+630,5,Education,Belém,"Iran, Islamic Republic Of",Afternoon,4
+631,4,Shoes,Ilhéus,Wallis and Futuna,Afternoon,4
+632,1,Food,Arbil,Spain,RedEyes,4
+633,4,Shoes,Douala,"Micronesia, Federated States of",RedEyes,1
+634,1,Food,Lusaka,"Taiwan, Province of China",Evening,3
+635,5,Education,Agartala,Austria,Afternoon,1
+636,3,Clothes,Linz,Uzbekistan,Evening,4
+637,4,Shoes,Chuí,Panama,Evening,3
+638,4,Shoes,Okinawa,Malawi,Morning,4
+639,2,Drink,Dushanbe,Azerbaijan,RedEyes,4
+640,1,Food,Palembang,"Virgin Islands, British",Evening,1
+641,4,Shoes,Pyongyang,Bosnia and Herzegovina,Morning,2
+642,3,Clothes,Juneau,Nigeria,RedEyes,4
+643,2,Drink,Innsbruck,Pitcairn,Evening,2
+644,4,Shoes,Valparaíso,Israel,Evening,3
+645,2,Drink,Vilnius,Malaysia,Afternoon,2
+646,5,Education,Hargeisa,France,Afternoon,4
+647,5,Education,Kota Bharu,Finland,Afternoon,4
+648,4,Shoes,Andorra la Vella,Samoa,Evening,2
+649,2,Drink,Moroni,Hungary,Afternoon,2
+650,3,Clothes,Taichung,United States Minor Outlying Islands,Afternoon,3
+651,3,Clothes,Strasbourg,Gambia,RedEyes,3
+652,2,Drink,Apia,Dominican Republic,Afternoon,3
+653,3,Clothes,Cusco,Guinea-Bissau,RedEyes,2
+654,4,Shoes,San Fernando,Azerbaijan,Evening,3
+655,5,Education,Hanoi,"Palestinian Territory, Occupied",RedEyes,4
+656,2,Drink,Pretoria,Bangladesh,Evening,1
+657,4,Shoes,Lilongwe,Lebanon,Morning,1
+658,3,Clothes,Jersey City,Kenya,Evening,1
+659,3,Clothes,Lyon,Gambia,Evening,3
+660,2,Drink,Singapore,Hong Kong,Afternoon,2
+661,4,Shoes,Innsbruck,South Georgia and the South Sandwich Islands,Afternoon,2
+662,2,Drink,Batticaloa,"Korea, Democratic People""S Republic of",RedEyes,3
+663,2,Drink,Novosibirsk,Armenia,Evening,3
+664,2,Drink,Arbil,Kiribati,RedEyes,4
+665,4,Shoes,Mamoudzou,Barbados,Evening,3
+666,3,Clothes,Ambon,Kiribati,RedEyes,2
+667,4,Shoes,Birkirkara,Liberia,Morning,1
+668,1,Food,Osaka,Sri Lanka,Morning,2
+669,1,Food,Indianapolis,Iraq,Evening,1
+670,2,Drink,Istanbul,"Cote D""Ivoire",Afternoon,2
+671,3,Clothes,Chengdu,Afghanistan,RedEyes,2
+672,2,Drink,Quito,Samoa,Evening,1
+673,3,Clothes,Colombo,Uzbekistan,Morning,1
+674,4,Shoes,Veracruz,Cocos (Keeling) Islands,Afternoon,2
+675,1,Food,Calgary,Mozambique,RedEyes,3
+676,5,Education,Siem Reap,Solomon Islands,Evening,3
+677,1,Food,Saint-Denis,Holy See (Vatican City State),Afternoon,4
+678,2,Drink,Baltimore,Norway,Evening,2
+679,3,Clothes,Atlanta,Somalia,Evening,4
+680,2,Drink,Louisville,Benin,Evening,4
+681,4,Shoes,Gold Coast,"Micronesia, Federated States of",Morning,2
+682,3,Clothes,Quebec City,"Moldova, Republic of",Afternoon,3
+683,5,Education,Phoenix,Monaco,RedEyes,4
+684,2,Drink,Dibrugarh,French Guiana,Evening,1
+685,3,Clothes,Suez,Thailand,Evening,2
+686,5,Education,Miri,United Kingdom,Morning,1
+687,3,Clothes,Puerto Williams,"Korea, Democratic People""S Republic of",Morning,2
+688,3,Clothes,Yaoundé,Georgia,Afternoon,3
+689,1,Food,Pontianak,Macao,RedEyes,3
+690,5,Education,Thessaloniki,Ecuador,Evening,4
+691,1,Food,Ludhiana,Philippines,RedEyes,4
+692,5,Education,Santa Cruz de la Sierra,Russian Federation,Evening,4
+693,1,Food,Puerto Williams,Nigeria,RedEyes,3
+694,5,Education,Pekanbaru,Greece,Morning,2
+695,1,Food,Punta Arenas,Sri Lanka,Afternoon,2
+696,2,Drink,The Hague,Comoros,Afternoon,3
+697,5,Education,St. George's,Liberia,Afternoon,1
+698,2,Drink,Nairobi,Haiti,Morning,2
+699,2,Drink,Baltimore,Portugal,Morning,1
+700,5,Education,Dubai,Bahamas,Evening,2
+701,2,Drink,Longyearbyen,Russian Federation,Afternoon,1
+702,1,Food,Cusco,Greenland,Evening,3
+703,3,Clothes,Jinan,Thailand,Evening,3
+704,4,Shoes,Munich,Tonga,Afternoon,3
+705,1,Food,City of Halifax,Ukraine,RedEyes,2
+706,5,Education,Makati City,Belgium,Afternoon,1
+707,4,Shoes,Kigali,Guam,Morning,4
+708,5,Education,Cali,Angola,RedEyes,1
+709,1,Food,Valencia,"Iran, Islamic Republic Of",Afternoon,1
+710,1,Food,Indianapolis,"Moldova, Republic of",Evening,4
+711,1,Food,Cork (city),China,Evening,1
+712,4,Shoes,Prague,Bahrain,Evening,4
+713,4,Shoes,Hamburg,Jersey,Afternoon,1
+714,5,Education,Mamoudzou,Macao,Morning,3
+715,1,Food,Tripoli,Isle of Man,Morning,4
+716,5,Education,Weno,Austria,RedEyes,2
+717,5,Education,Toronto,Mongolia,Afternoon,2
+718,2,Drink,Ljubljana,Thailand,RedEyes,1
+719,4,Shoes,Bangalore,Gibraltar,Morning,1
+720,2,Drink,San Carlos de Bariloche,Niger,RedEyes,2
+721,4,Shoes,Dalian,Cape Verde,RedEyes,4
+722,5,Education,Córdoba,Nauru,Morning,3
+723,2,Drink,São Paulo,United Kingdom,Morning,1
+724,1,Food,Detroit,Brunei Darussalam,RedEyes,2
+725,5,Education,Bandar Seri Begawan,Colombia,Evening,4
+726,1,Food,Suez,Mongolia,Morning,4
+727,3,Clothes,Huế,Saint Pierre and Miquelon,Evening,2
+728,2,Drink,Pristina,Swaziland,Evening,2
+729,4,Shoes,Multan,Timor-Leste,RedEyes,3
+730,4,Shoes,Chişinău,Timor-Leste,RedEyes,3
+731,1,Food,Saint Petersburg,Australia,RedEyes,1
+732,2,Drink,Havana,Malaysia,Afternoon,2
+733,5,Education,Thimphu,Oman,Afternoon,3
+734,3,Clothes,Ouagadougou,Sudan,RedEyes,2
+735,4,Shoes,Tiraspol,French Polynesia,Afternoon,4
+736,2,Drink,Okinawa,Greece,Morning,2
+737,4,Shoes,Tampa,Afghanistan,Morning,1
+738,1,Food,La Serena,Benin,Afternoon,4
+739,1,Food,Mecca,Uganda,Afternoon,1
+740,3,Clothes,Algiers,Guinea,Afternoon,4
+741,3,Clothes,Puerto Williams,Hungary,Morning,4
+742,1,Food,Avarua,Kuwait,Morning,2
+743,5,Education,Tijuana,Thailand,Evening,3
+744,5,Education,Chihuahua,Saint Lucia,Afternoon,4
+745,5,Education,Jerusalem,Canada,Afternoon,1
+746,1,Food,Bucharest,Nauru,Afternoon,4
+747,3,Clothes,London,"Cote D""Ivoire",RedEyes,3
+748,3,Clothes,Prague,Mauritius,Evening,2
+749,4,Shoes,Okinawa,British Indian Ocean Territory,RedEyes,4
+750,5,Education,Porto,Bouvet Island,RedEyes,1
+751,4,Shoes,Doha,Swaziland,Evening,3
+752,5,Education,Suva,"Iran, Islamic Republic Of",Morning,4
+753,4,Shoes,Iqaluit,Dominican Republic,Evening,4
+754,5,Education,Saint Petersburg,United States,Afternoon,1
+755,3,Clothes,Tokyo,Switzerland,Evening,2
+756,5,Education,Nanjing,Austria,Evening,4
+757,1,Food,Kraków,Uruguay,Evening,1
+758,1,Food,Mbabane,Algeria,Afternoon,2
+759,3,Clothes,Lucknow,Fiji,Evening,4
+760,5,Education,Mexico City,United Arab Emirates,RedEyes,3
+761,4,Shoes,Miami,Liberia,Evening,2
+762,3,Clothes,Norilsk,Cook Islands,RedEyes,1
+763,4,Shoes,Udon Thani,Comoros,Afternoon,4
+764,3,Clothes,Oranjestad,Sri Lanka,Evening,2
+765,3,Clothes,Balikpapan,Chad,Evening,2
+766,3,Clothes,Charlottetown,Iceland,RedEyes,3
+767,1,Food,St. George's,United States Minor Outlying Islands,Afternoon,4
+768,3,Clothes,San Francisco,Zambia,RedEyes,1
+769,4,Shoes,San Francisco,Costa Rica,Morning,4
+770,5,Education,Zürich,Cape Verde,Evening,3
+771,3,Clothes,Pago Pago,Dominica,Evening,3
+772,5,Education,Da Nang,Norfolk Island,RedEyes,4
+773,5,Education,Cairo,Greenland,Evening,4
+774,5,Education,Saint-Denis,Paraguay,Morning,1
+775,4,Shoes,Kuwait City,Slovakia,Morning,3
+776,3,Clothes,Alexandria,Saint Pierre and Miquelon,Afternoon,1
+777,4,Shoes,Djibouti (city),Malaysia,Morning,1
+778,2,Drink,Hangzhou,Barbados,Evening,2
+779,3,Clothes,Kraków,"Micronesia, Federated States of",Afternoon,1
+780,1,Food,Mbabane,Uganda,Morning,4
+781,4,Shoes,Cairo,Germany,Morning,1
+782,1,Food,Madrid,Jersey,Afternoon,2
+783,1,Food,Salzburg,Liechtenstein,Morning,3
+784,5,Education,Regina,Romania,RedEyes,3
+785,2,Drink,Sukhumi,Cyprus,Afternoon,4
+786,2,Drink,Adelaide,Comoros,Afternoon,2
+787,4,Shoes,El Aaiún,Nauru,Morning,2
+788,1,Food,Pattaya,Estonia,Afternoon,1
+789,5,Education,Maputo,Malaysia,Afternoon,3
+790,4,Shoes,Siem Reap,Heard Island and Mcdonald Islands,Afternoon,3
+791,1,Food,Samara,Nauru,Morning,2
+792,4,Shoes,Rawalpindi,Lebanon,Afternoon,4
+793,3,Clothes,Quetzaltenango,Turkey,Morning,4
+794,3,Clothes,Vientiane,Hong Kong,Morning,3
+795,2,Drink,Ipoh,El Salvador,Afternoon,3
+796,4,Shoes,Quetzaltenango,"Korea, Republic of",Morning,1
+797,3,Clothes,Geneva,Somalia,Afternoon,2
+798,1,Food,Nizhny Novgorod,Somalia,Evening,2
+799,1,Food,Chongjin,Cameroon,Afternoon,3
+800,4,Shoes,Pyongyang,Liberia,Evening,3
+801,5,Education,Colombo,"Lao People""S Democratic Republic",RedEyes,1
+802,3,Clothes,Winnipeg,Anguilla,Evening,4
+803,4,Shoes,Yogyakarta (city),Aruba,Afternoon,2
+804,1,Food,San Carlos de Bariloche,Martinique,Afternoon,1
+805,5,Education,Mashhad,Sudan,Evening,1
+806,3,Clothes,Santa Cruz de la Sierra,Mozambique,Morning,1
+807,3,Clothes,Melbourne,Åland Islands,Evening,4
+808,5,Education,Chittagong,Chile,Morning,4
+809,4,Shoes,Detroit,"Virgin Islands, British",Afternoon,4
+810,1,Food,Cleveland,Morocco,RedEyes,1
+811,4,Shoes,Ankara,Cyprus,Evening,3
+812,2,Drink,Majuro,Saudi Arabia,Afternoon,4
+813,3,Clothes,Kota Kinabalu,Ireland,RedEyes,1
+814,2,Drink,Punta Arenas,Ethiopia,Morning,3
+815,2,Drink,Surabaya,Brunei Darussalam,RedEyes,3
+816,2,Drink,Lusaka,Liechtenstein,Afternoon,3
+817,3,Clothes,Cairo,Austria,Evening,2
+818,2,Drink,Helsinki,Martinique,Morning,2
+819,2,Drink,Kigali,Eritrea,Evening,3
+820,1,Food,Sitka,Peru,RedEyes,2
+821,5,Education,Vaduz,Brunei Darussalam,RedEyes,1
+822,4,Shoes,Almaty,Estonia,RedEyes,2
+823,3,Clothes,Santo Domingo,"Macedonia, The Former Yugoslav Republic of",Morning,3
+824,1,Food,Pune,Mayotte,Evening,3
+825,3,Clothes,Canberra,Oman,Morning,4
+826,5,Education,Birmingham,Mexico,Evening,1
+827,3,Clothes,Christchurch,Spain,Morning,3
+828,2,Drink,Dushanbe,Dominican Republic,RedEyes,4
+829,4,Shoes,Helsinki,"Moldova, Republic of",Morning,3
+830,5,Education,Mumbai,Falkland Islands (Malvinas),Morning,1
+831,5,Education,Albuquerque,Belarus,Afternoon,2
+832,1,Food,Labasa,Bolivia,Evening,3
+833,3,Clothes,Jaipur,Yemen,Morning,1
+834,2,Drink,Kharkiv,Isle of Man,Evening,2
+835,4,Shoes,Sukhumi,Zambia,Evening,2
+836,5,Education,Zanzibar City,Cuba,Afternoon,3
+837,1,Food,Daegu,Cape Verde,Evening,2
+838,3,Clothes,Vienna,Pakistan,RedEyes,3
+839,4,Shoes,Columbus,Myanmar,Afternoon,2
+840,3,Clothes,Stuttgart,Peru,Afternoon,2
+841,1,Food,Lima,Mongolia,Evening,1
+842,4,Shoes,Singapore,Nicaragua,Evening,1
+843,4,Shoes,Nantes,Saudi Arabia,Morning,3
+844,4,Shoes,Karachi,Bolivia,Morning,4
+845,3,Clothes,Cayenne,Turkmenistan,Evening,3
+846,5,Education,Guangzhou,Peru,RedEyes,4
+847,4,Shoes,Yogyakarta (city),Kenya,Afternoon,1
+848,3,Clothes,Lilongwe,Jamaica,Morning,3
+849,4,Shoes,Hyderabad,Argentina,Morning,4
+850,4,Shoes,N'Djamena,Tuvalu,RedEyes,3
+851,3,Clothes,Leeds,Mayotte,Evening,2
+852,4,Shoes,New Delhi,Namibia,RedEyes,3
+853,3,Clothes,London,Netherlands,Afternoon,1
+854,3,Clothes,Chihuahua,Georgia,Evening,3
+855,1,Food,Córdoba,Reunion,Morning,1
+856,2,Drink,Jerusalem,Vanuatu,Morning,1
+857,3,Clothes,San Diego,Nigeria,Evening,1
+858,3,Clothes,Sri Jayawardenapura-Kotte,Saint Helena,Evening,3
+859,5,Education,Yekaterinburg,Slovakia,Evening,4
+860,2,Drink,Wellington,Jordan,Morning,3
+861,2,Drink,Antananarivo,Albania,Afternoon,4
+862,4,Shoes,Denpasar,French Guiana,Afternoon,2
+863,2,Drink,Yekaterinburg,Jamaica,Morning,3
+864,5,Education,Nouakchott,Panama,Evening,1
+865,2,Drink,Fairbanks,"Cote D""Ivoire",Afternoon,2
+866,1,Food,Aarhus,Marshall Islands,RedEyes,1
+867,1,Food,Rotterdam,Sierra Leone,Afternoon,4
+868,2,Drink,Vienna,Japan,RedEyes,4
+869,2,Drink,İzmir,United States Minor Outlying Islands,Morning,1
+870,3,Clothes,Huế,Puerto Rico,Evening,1
+871,3,Clothes,Tampere,United Arab Emirates,Evening,1
+872,1,Food,Yakutsk,Finland,RedEyes,1
+873,5,Education,Hiroshima,Mongolia,Morning,3
+874,5,Education,Honolulu,Morocco,Evening,3
+875,1,Food,Athens,Tuvalu,Afternoon,3
+876,4,Shoes,Glasgow,Pitcairn,Evening,2
+877,4,Shoes,Dongguan,Barbados,Afternoon,3
+878,5,Education,Ouagadougou,Macao,Afternoon,1
+879,5,Education,Fukuoka,Paraguay,Morning,3
+880,2,Drink,Ciudad del Este,Jordan,Evening,4
+881,1,Food,Jeddah,Iraq,Morning,2
+882,3,Clothes,Busan,Mali,Afternoon,1
+883,1,Food,Dodoma,Niger,RedEyes,1
+884,5,Education,Riga,Somalia,Morning,1
+885,5,Education,Muscat,Senegal,Morning,3
+886,4,Shoes,Bergen,Iraq,Evening,2
+887,4,Shoes,Macapá,Oman,Afternoon,1
+888,3,Clothes,London,Slovenia,Morning,1
+889,3,Clothes,Amsterdam,Samoa,Evening,4
+890,5,Education,Amritsar,Mayotte,Afternoon,2
+891,2,Drink,Saskatoon,Guam,RedEyes,1
+892,4,Shoes,Rio de Janeiro,Angola,Evening,3
+893,4,Shoes,Jerusalem,Afghanistan,Afternoon,3
+894,2,Drink,Whitehorse,Netherlands Antilles,Morning,1
+895,2,Drink,Chongqing,Maldives,Evening,2
+896,1,Food,Banda Aceh,Faroe Islands,Afternoon,2
+897,1,Food,Port Hedland,Jersey,RedEyes,4
+898,4,Shoes,Hanga Roa,Ethiopia,Evening,2
+899,2,Drink,Atlanta,Russian Federation,RedEyes,1
+900,3,Clothes,Düsseldorf,Poland,Afternoon,2
+901,4,Shoes,Abidjan,Maldives,Afternoon,3
+902,5,Education,Bogor,Syrian Arab Republic,RedEyes,1
+903,3,Clothes,Zanzibar City,Albania,RedEyes,2
+904,4,Shoes,Málaga,Ukraine,Morning,4
+905,4,Shoes,San Francisco,Madagascar,RedEyes,1
+906,2,Drink,Pekanbaru,Ukraine,Morning,2
+907,1,Food,Brasília,Tajikistan,Afternoon,2
+908,4,Shoes,Douala,Maldives,Evening,2
+909,2,Drink,Thessaloniki,Mongolia,Afternoon,3
+910,2,Drink,Doha,Greenland,Morning,1
+911,3,Clothes,Dammam,Gibraltar,Afternoon,3
+912,2,Drink,Oslo,Nepal,Morning,2
+913,5,Education,Barranquilla,Kyrgyzstan,Evening,1
+914,5,Education,Ibadan,Guinea,Afternoon,4
+915,4,Shoes,Geneva,Dominican Republic,Afternoon,4
+916,3,Clothes,Bilbao,Sweden,Morning,2
+917,5,Education,Chennai,South Africa,Morning,2
+918,4,Shoes,Livingstone,Croatia,Morning,4
+919,4,Shoes,Bogor,"Virgin Islands, U.S.",Evening,4
+920,2,Drink,Durango,India,Morning,4
+921,1,Food,Medan,Mayotte,Afternoon,1
+922,5,Education,Wichita,Cambodia,Morning,1
+923,5,Education,Suva,"Taiwan, Province of China",Afternoon,4
+924,1,Food,Semarang,Thailand,Afternoon,2
+925,5,Education,San Juan,Qatar,Evening,3
+926,2,Drink,Adak,Uzbekistan,RedEyes,3
+927,1,Food,San José,United States Minor Outlying Islands,Afternoon,2
+928,1,Food,Oklahoma City,"Moldova, Republic of",RedEyes,4
+929,3,Clothes,Iloilo City,French Southern Territories,Morning,1
+930,3,Clothes,San Antonio,Cook Islands,RedEyes,1
+931,5,Education,Bandar Seri Begawan,Bulgaria,Morning,1
+932,1,Food,Belgrade,Mauritania,Afternoon,4
+933,5,Education,Islamabad,Congo,Evening,4
+934,5,Education,Perm,"Micronesia, Federated States of",RedEyes,4
+935,2,Drink,Wichita,Gibraltar,Afternoon,3
+936,1,Food,Hagåtña,Lithuania,Afternoon,4
+937,1,Food,Warsaw,Iceland,Evening,3
+938,2,Drink,Vladivostok,Belgium,Evening,1
+939,2,Drink,Iqaluit,"Tanzania, United Republic of",Afternoon,2
+940,1,Food,Yangon,Cuba,RedEyes,4
+941,1,Food,Kabul,"Lao People""S Democratic Republic",Morning,2
+942,2,Drink,Tórshavn,Djibouti,RedEyes,2
+943,2,Drink,Da Nang,Holy See (Vatican City State),Morning,3
+944,5,Education,Makati City,Congo,Evening,3
+945,2,Drink,Almaty,Viet Nam,Afternoon,4
+946,1,Food,Buffalo,Nigeria,RedEyes,2
+947,3,Clothes,Kiev,Cambodia,Afternoon,2
+948,1,Food,Anadyr (town),Antarctica,RedEyes,2
+949,2,Drink,Novosibirsk,Belize,Morning,3
+950,1,Food,Gangtok,Ireland,Morning,4
+951,3,Clothes,La Serena,"Tanzania, United Republic of",Afternoon,1
+952,2,Drink,Budapest,Bhutan,Morning,3
+953,1,Food,Phuket (city),Estonia,Evening,3
+954,3,Clothes,Patna,Nicaragua,RedEyes,2
+955,1,Food,Strasbourg,Eritrea,RedEyes,1
+956,5,Education,Hilo,Argentina,Morning,2
+957,5,Education,Belmopan,Slovakia,Evening,4
+958,1,Food,Madrid,Swaziland,RedEyes,3
+959,1,Food,Newcastle,San Marino,RedEyes,4
+960,2,Drink,Zanzibar City,Reunion,RedEyes,3
+961,2,Drink,Bandar Seri Begawan,Faroe Islands,RedEyes,1
+962,5,Education,Bogotá,Slovenia,Afternoon,4
+963,2,Drink,Konya,Thailand,Afternoon,4
+964,5,Education,Brisbane,Mozambique,RedEyes,2
+965,1,Food,San Francisco,Belize,Evening,4
+966,5,Education,Shenyang,Pakistan,Evening,4
+967,5,Education,Kharkiv,Antarctica,Evening,4
+968,3,Clothes,Buenos Aires,Jersey,RedEyes,2
+969,1,Food,Kigali,Kenya,Evening,3
+970,4,Shoes,Hagåtña,Cameroon,Afternoon,4
+971,3,Clothes,Patna,Equatorial Guinea,Evening,4
+972,1,Food,Chongqing,Yemen,Morning,4
+973,5,Education,Anadyr (town),Oman,Afternoon,1
+974,5,Education,Bandar Seri Begawan,United States Minor Outlying Islands,Afternoon,1
+975,5,Education,Amritsar,French Guiana,Evening,1
+976,5,Education,Melekeok,Italy,RedEyes,4
+977,1,Food,Bern,Monaco,Evening,3
+978,5,Education,Virginia Beach,"Korea, Republic of",Evening,4
+979,3,Clothes,Bergen,Lesotho,RedEyes,3
+980,4,Shoes,Lisbon,Georgia,RedEyes,4
+981,1,Food,Iquitos,Spain,Afternoon,2
+982,1,Food,Monaco,Zambia,RedEyes,3
+983,5,Education,Peshawar,Jamaica,Afternoon,1
+984,3,Clothes,Koulikoro,Yemen,Afternoon,3
+985,4,Shoes,Shenyang,Mauritius,Evening,3
+986,4,Shoes,Kanpur,Pakistan,Afternoon,2
+987,4,Shoes,Luanda,"Palestinian Territory, Occupied",Afternoon,1
+988,4,Shoes,Sucre,Kuwait,Evening,3
+989,1,Food,Monrovia,Svalbard and Jan Mayen,Evening,4
+990,1,Food,Hamburg,Indonesia,Afternoon,1
+991,4,Shoes,Beijing,Cambodia,Morning,3
+992,5,Education,Patna,Guam,RedEyes,1
+993,4,Shoes,Taiyuan,Mexico,Afternoon,1
+994,3,Clothes,Kharkiv,Russian Federation,Evening,4
+995,2,Drink,Birmingham,Seychelles,Morning,4
+996,5,Education,Hamburg,Tonga,Evening,4
+997,2,Drink,Ho Chi Minh City,New Caledonia,Morning,1
+998,5,Education,Fort-de-France,Belarus,Morning,2
+999,4,Shoes,Jeddah,Mauritius,Evening,2
+1000,4,Shoes,Dakar,Cayman Islands,RedEyes,1
